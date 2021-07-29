@@ -5,3 +5,4 @@ average=total/7
 print(average)
 x=average*8
 print(x)
+print(15<=10)
